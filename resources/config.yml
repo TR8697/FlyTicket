@@ -1,0 +1,14 @@
+komut: ucusbelgesi
+komut-aciklamasi: "Uçuş Belgesi Menüsü"
+Content: "§6Bu menüden uçuş belgesi satın alabilirsiniz. Aldığınız süre kadar uçabilirsiniz. Süre bitince uçuş bileti bitmiş olur.\n"
+PriceText: "§bDakika başı fiyat: §f{fiyat}\n"
+Paran: "§aSenin paran: §2{paran} TL\n"
+Fiyat: 2000
+Form-Title: Uçuş Belgesi Menüsü
+Min: 1
+Max: 60
+ItemName: "§l§d{dakika}§r §5dakikalık  uçuş belgesi"
+Mesaj: "§2{toplamtutar} §akarşılığında §2{dakika} §adakikalık uçuş belgesi satın aldın!"
+Kullanma-Mesajı: "§aBaşarıyla uçuş belgesini kullandınız!"
+Ucus-Mesaji: "§7Uçuş süresi: §e{dakika}d {saniye}s"
+Uyarı-Title: "§cUçuş Belgesi §f{saniye} §csaniye sonra sona erecek!"
